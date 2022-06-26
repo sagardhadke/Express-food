@@ -1,0 +1,185 @@
+# Copyright (C) 2019 MachoThemes
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Remove Footer Credit 1.0.5\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/remove-footer-credit\n"
+"POT-Creation-Date: 2019-10-09 14:44:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: remove-footer-credit.php:56
+msgid "Settings"
+msgstr ""
+
+#: remove-footer-credit.php:60
+msgid "Other Great Plugins"
+msgstr ""
+
+#: remove-footer-credit.php:64 sections/plugin-info.php:2
+msgid "Get Help"
+msgstr ""
+
+#: remove-footer-credit.php:117
+msgid "Get WordPress help, plugins, themes and tips at "
+msgstr ""
+
+#: remove-footer-credit.php:117
+msgid "MachoThemes.com"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Remove Footer Credit"
+msgstr ""
+
+#: remove-footer-credit.php:161
+msgid "Settings Saved"
+msgstr ""
+
+#: remove-footer-credit.php:174
+#. Translators: Welcome Screen Description.
+msgid ""
+"Remove or replace footer credits (or any text or HTML in page) before page "
+"is rendered. With this plugin there is no need to modify code such as "
+"footer.php which if done incorrectly can cause your site to break or new "
+"theme updates will stomp over your changes requiring you to remove footer "
+"credits on each update."
+msgstr ""
+
+#: sections/plugin-info.php:3
+msgid "Need help using this plugin or want to report a bug? Contact me"
+msgstr ""
+
+#: sections/plugin-info.php:3
+msgid "here"
+msgstr ""
+
+#: sections/plugin-info.php:5
+msgid "Learn"
+msgstr ""
+
+#: sections/plugin-info.php:6
+msgid "Click here"
+msgstr ""
+
+#: sections/plugin-info.php:6
+msgid "to view instructions on how to use this plugin."
+msgstr ""
+
+#: sections/plugins.php:5
+msgid "Modula - A WordPress Gallery Plugin"
+msgstr ""
+
+#: sections/plugins.php:6
+msgid ""
+"Modula is currently the easiest and fastest photo gallery plugin for "
+"WordPress. With its wizard you are able to build an image gallery in a few "
+"seconds, unlike many other WordPress gallery plugins."
+msgstr ""
+
+#: sections/plugins.php:11
+msgid "Simple Author Box"
+msgstr ""
+
+#: sections/plugins.php:12
+msgid ""
+"Simple Author Box adds a responsive author box at the end of your posts, "
+"showing the author name, author gravatar and author description. It also "
+"adds over 30 social profile fields on WordPress user profile screen, "
+"allowing to display the author social icons."
+msgstr ""
+
+#: sections/plugins.php:40
+msgid "Install & Activate"
+msgstr ""
+
+#: sections/plugins.php:49 sections/plugins.php:74
+msgid "Activated"
+msgstr ""
+
+#: sections/plugins.php:53
+msgid "Activate"
+msgstr ""
+
+#: sections/plugins.php:76
+msgid "Find out more"
+msgstr ""
+
+#: sections/settings.php:7
+msgid "Step 1: Enter text/HTML to remove (one per line)"
+msgstr ""
+
+#: sections/settings.php:9
+msgid "Step 2: Enter your own footer credit (one per line)"
+msgstr ""
+
+#: sections/settings.php:11
+msgid "Step 3: Please support my work and spread the word (optional)"
+msgstr ""
+
+#: sections/settings.php:12
+msgid ""
+"Help keep this plugin free by providing one link back at the bottom of one "
+"of your posts/pages."
+msgstr ""
+
+#: sections/settings.php:13
+msgid "No, thanks."
+msgstr ""
+
+#: sections/settings.php:14
+msgid "Yes, I will support you!"
+msgstr ""
+
+#: sections/settings.php:36
+msgid "Select a post/page:"
+msgstr ""
+
+#: sections/settings.php:39
+msgid "-- Posts --"
+msgstr ""
+
+#: sections/settings.php:45
+msgid "-- Pages --"
+msgstr ""
+
+#: sections/settings.php:53
+msgid "The text below will appear at the bottom of the selected post/page."
+msgstr ""
+
+#: sections/settings.php:54
+msgid "Get WordPress help, plugins, themes and tips at"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://upwerd.com/remove-footer-credit"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple plugin to remove footer credits"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MachoThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.machothemes.com/"
+msgstr ""
